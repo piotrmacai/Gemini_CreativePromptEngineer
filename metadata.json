@@ -1,0 +1,6 @@
+{
+  "name": "ImagePromptEngineer-v3.0",
+  "description": "An application to generate text-to-image prompts from an uploaded image using Gemini, and then generate an image from that prompt using Imagen.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
